@@ -1,0 +1,283 @@
+{
+    "basics": {
+        "name": "Lei Lei",
+        "label": "Computer Vision & AI Scientist",
+        "image": "",
+        "email": "leilei_job@outlook.com",
+        "url": "https://Crescent-Saturn.github.io",
+        "summary": "AI Scientist with over 6 years of experience in building and deploying machine learning systems for 3D reconstruction, segmentation, and cloud-based MLOps. Passionate about delivering innovative solutions in Computer Vision and Neural Rendering.",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "Quebec",
+            "countryCode": "CA",
+            "region": "Quebec"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "leilei-job",
+                "url": "https://www.linkedin.com/in/leilei-job/"
+            },
+            {
+                "network": "GitHub",
+                "username": "Crescent-Saturn",
+                "url": "https://github.com/Crescent-Saturn"
+            },
+            {
+                "network": "Google Scholar",
+                "username": "",
+                "url": "https://scholar.google.com/citations?user=0F2DV0AAAAAJ&hl=en"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "LeddarTech",
+            "position": "AI Scientist - Algorithm Developer",
+            "url": "https://leddartech.com/",
+            "startDate": "2024-02-01",
+            "endDate": "",
+            "summary": "Developing simulation-driven algorithms for Neural Radiance Fields (NeRF) and 3D Gaussian Splatting (3DGS).",
+            "highlights": [
+                "Built data pipelines for NeRF and 3DGS training and rendering.",
+                "Developed 3D scene reconstruction tools and transformation algorithms."
+            ]
+        },
+        {
+            "name": "INO (National Optics Institute)",
+            "position": "Computer Vision & AI Scientist",
+            "url": "https://www.ino.ca/",
+            "startDate": "2019-07-01",
+            "endDate": "2023-11-01",
+            "summary": "Led computer vision initiatives including segmentation systems and annotation tools. Delivered high-impact AI solutions for industrial applications.",
+            "highlights": [
+                "Developed custom instance segmentation models with PyTorch, improving model precision and runtime.",
+                "Implemented and deployed a robust TensorFlow-based segmentation pipeline with 20% IoU improvement.",
+                "Led deployment and customization of CVAT on AWS with semi-automatic annotation features, reducing labeling time by 40%.",
+                "Engineered reusable CV toolkits and documentation adopted by multiple internal teams.",
+                "Achieved 98% model accuracy through advanced data augmentation and optimization."
+            ]
+        },
+        {
+            "name": "BI Expertise",
+            "position": "Data Scientist",
+            "url": "https://www.biexpertise.com/",
+            "startDate": "2018-11-01",
+            "endDate": "2019-06-01",
+            "summary": "Delivered cloud-based image classification solutions on Google Cloud Platform.",
+            "highlights": [
+                "Designed and tested classification models using TensorFlow on GCP.",
+                "Improved accuracy by 10% through systematic fine-tuning.",
+                "Boosted business insights and customer satisfaction through automated workflows."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Université Laval",
+            "location": "Quebec, Canada",
+            "url": "https://www.ulaval.ca/",
+            "area": "Electrical Engineering",
+            "studyType": "PhD",
+            "startDate": "",
+            "endDate": "2018-08-01",
+            "score": "",
+            "courses": [
+                "Infrared Vision for Non-Destructive Testing"
+            ]
+        },
+        {
+            "institution": "University of Rouen",
+            "location": "Rouen, France",
+            "url": "https://www.univ-rouen.fr/",
+            "area": "Laser Diagnostics and Optical Metrology",
+            "studyType": "Master",
+            "startDate": "",
+            "endDate": "2013-06-01",
+            "score": "",
+            "courses": []
+        },
+        {
+            "institution": "University of Rouen",
+            "location": "Rouen, France",
+            "url": "https://www.univ-rouen.fr/",
+            "area": "Energy, Fluids and Environment",
+            "studyType": "Master",
+            "startDate": "",
+            "endDate": "2012-06-01",
+            "score": "",
+            "courses": []
+        },
+        {
+            "institution": "University of Shanghai for Science and Technology",
+            "location": "Shanghai, China",
+            "url": "https://en.usst.edu.cn/",
+            "area": "Thermal Energy and Power Engineering",
+            "studyType": "Bachelor",
+            "startDate": "",
+            "endDate": "2010-06-01",
+            "score": "",
+            "courses": []
+        }
+    ],
+    "certificates": [
+        {
+            "name": "Azure Data Scientist Associate",
+            "date": "",
+            "issuer": "Microsoft",
+            "url": "https://www.credly.com/badges/724f2d19-cbf8-4455-9f58-f7710c3c53a0",
+            "icon": ""
+        },
+        {
+            "name": "Preparing for Google Cloud Certification: ML Engineer",
+            "date": "",
+            "issuer": "Google Cloud / Coursera",
+            "url": "https://www.coursera.org/account/accomplishments/professional-cert/QQAMPPLGYXPX",
+            "icon": ""
+        },
+        {
+            "name": "Advanced ML on Google Cloud",
+            "date": "",
+            "issuer": "Google Cloud / Coursera",
+            "url": "https://www.coursera.org/account/accomplishments/specialization/L53ANVVGHJ47",
+            "icon": ""
+        },
+        {
+            "name": "ML with TensorFlow on Google Cloud",
+            "date": "",
+            "issuer": "Google Cloud / Coursera",
+            "url": "https://www.coursera.org/account/accomplishments/specialization/6L5QSAPK8AS2",
+            "icon": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "Programming",
+            "level": "Advanced",
+            "icon": "fa-solid fa-code",
+            "keywords": [
+                "Python",
+                "C++",
+                "MATLAB",
+                "Bash",
+                "Git"
+            ]
+        },
+        {
+            "name": "Frameworks",
+            "level": "Advanced",
+            "icon": "fa-solid fa-cube",
+            "keywords": [
+                "PyTorch",
+                "TensorFlow",
+                "OpenCV"
+            ]
+        },
+        {
+            "name": "Cloud & DevOps",
+            "level": "Advanced",
+            "icon": "fa-solid fa-cloud",
+            "keywords": [
+                "AWS",
+                "GCP",
+                "Azure",
+                "Linux",
+                "Docker"
+            ]
+        },
+        {
+            "name": "Specialties",
+            "level": "Expert",
+            "icon": "fa-solid fa-brain",
+            "keywords": [
+                "NeRF",
+                "3D Gaussian Splatting",
+                "Segmentation",
+                "Infrared NDT",
+                "MLOps"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Mandarin",
+            "fluency": "Native"
+        },
+        {
+            "language": "English",
+            "fluency": "Professional"
+        },
+        {
+            "language": "French",
+            "fluency": "Fluent"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Multi-Sensor Fusion and 3D Scene Reconstruction",
+            "summary": "Developed and deployed sensor fusion algorithms and 3D reconstruction systems for automotive perception.",
+            "highlights": [
+                "Integrated multi-sensor inputs (e.g., LiDAR, RGB) for real-time 3D scene reconstruction.",
+                "Designed flexible transformation pipelines for heterogeneous sensor datasets.",
+                "Supported R&D simulation with reproducible 3D environments."
+            ],
+            "startDate": "2024-10-01",
+            "endDate": "",
+            "url": "",
+            "image": "/assets/img/projects/3d_reconstruction_preview.jpg"
+        },
+        {
+            "name": "Simulation Framework with NeRF & 3D Gaussian Splatting",
+            "summary": "Built a data-driven simulation framework for autonomous driving using Neural Radiance Fields (NeRF) and 3D Gaussian Splatting techniques.",
+            "highlights": [
+                "Developed pipelines for data ingestion, transformation, and augmentation tailored for autonomous vehicle simulation.",
+                "Integrated NeRF and 3DGS models with custom dataloaders and sensor metadata.",
+                "Translated cutting-edge academic methods into production-grade systems."
+            ],
+            "startDate": "2024-02-01",
+            "endDate": "2024-10-01",
+            "url": "",
+            "image": "/assets/img/projects/nerf_3dgs_preview.jpg"
+        },
+        {
+            "name": "Instance Segmentation with Custom Model Heads (PyTorch)",
+            "summary": "Led development of a state-of-the-art instance segmentation system with custom model heads, optimized for industrial vision tasks.",
+            "highlights": [
+                "Achieved 98% accuracy through architecture tuning and data augmentation.",
+                "Improved inference performance and generalizability across datasets.",
+                "Packaged reusable modules for future vision projects at INO."
+            ],
+            "startDate": "2022-10-01",
+            "endDate": "2023-11-01",
+            "url": "",
+            "image": "/assets/img/projects/instance_segmentation_preview.jpg"
+        },
+        {
+            "name": "CVAT on AWS with Semi-Automatic Labeling",
+            "summary": "Engineered and deployed a customized CVAT platform on AWS to support internal data annotation workflows.",
+            "highlights": [
+                "Reduced labeling time by 40% through semi-automatic annotation integration.",
+                "Customized CVAT backend and UI for domain-specific needs.",
+                "Provided documentation and training adopted across INO departments."
+            ],
+            "startDate": "2022-01-01",
+            "endDate": "2023-01-01",
+            "url": "",
+            "image": "/assets/img/projects/cvat.jpg"
+        },
+        {
+            "name": "TensorFlow-based Semantic Segmentation Pipeline",
+            "summary": "Designed and deployed an image segmentation system with TensorFlow, improving segmentation quality and efficiency.",
+            "highlights": [
+                "Enhanced IoU metrics by over 20% using improved preprocessing and architecture.",
+                "Deployed pipeline for batch processing across multiple projects.",
+                "Automated model evaluation and retraining procedures."
+            ],
+            "startDate": "2020-06-01",
+            "endDate": "2021-10-01",
+            "url": "",
+            "image": "/assets/img/projects/tf_segmentation_preview.jpg"
+        }
+    ]
+}
