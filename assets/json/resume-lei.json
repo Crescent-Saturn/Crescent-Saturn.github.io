@@ -37,7 +37,7 @@
             "position": "AI Scientist - Algorithm Developer",
             "url": "https://leddartech.com/",
             "startDate": "2024-02-01",
-            "endDate": "",
+            "endDate": "2025-06-19",
             "summary": "Developing simulation-driven algorithms for Neural Radiance Fields (NeRF) and 3D Gaussian Splatting (3DGS).",
             "highlights": [
                 "Built data pipelines for NeRF and 3DGS training and rendering.",
@@ -49,7 +49,7 @@
             "position": "Computer Vision & AI Scientist",
             "url": "https://www.ino.ca/",
             "startDate": "2019-07-01",
-            "endDate": "2023-11-01",
+            "endDate": "2023-11-30",
             "summary": "Led computer vision initiatives including segmentation systems and annotation tools. Delivered high-impact AI solutions for industrial applications.",
             "highlights": [
                 "Developed custom instance segmentation models with PyTorch, improving model precision and runtime.",
@@ -64,7 +64,7 @@
             "position": "Data Scientist",
             "url": "https://www.biexpertise.com/",
             "startDate": "2018-11-01",
-            "endDate": "2019-06-01",
+            "endDate": "2019-06-30",
             "summary": "Delivered cloud-based image classification solutions on Google Cloud Platform.",
             "highlights": [
                 "Designed and tested classification models using TensorFlow on GCP.",
@@ -280,4 +280,5 @@
             "image": "/assets/img/projects/tf_segmentation_preview.jpg"
         }
     ]
+
 }
