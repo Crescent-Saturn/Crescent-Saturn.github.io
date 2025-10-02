@@ -195,7 +195,7 @@ exclude:
   - _pages/teaching.md
   - _pages/dropdown.md
   - _projects/
-  - _news
+  # - _news
   - _posts
 keep_files:
   - CNAME
