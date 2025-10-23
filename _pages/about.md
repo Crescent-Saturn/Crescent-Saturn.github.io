@@ -7,8 +7,9 @@ permalink: /
 profile:
   align: right
   # image: prof_pic.jpg
-  image: Lei-Profile.png
-  image_circular: false # crops the image to make it circular
+  # image: Lei-Profile.png
+  image: Portrait_Lei.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p> Quebec </p>
     <p> Quebec </p>
