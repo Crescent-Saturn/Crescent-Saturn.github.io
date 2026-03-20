@@ -64,7 +64,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-unifying-appearance-codes-and-bilateral-grids-for-driving-scene-gaussian-splatting-has-been-accepted-at-neurips-2025-tada-tada-tada",
+            },},{id: "news-our-paper-an-ensemble-approach-to-climate-misinformation-detection-has-been-published-at-scitepress-tada-tada-tada",
+          title: 'Our paper An Ensemble Approach to Climate Misinformation Detection has been published at...',
+          description: "",
+          section: "News",},{id: "news-our-paper-unifying-appearance-codes-and-bilateral-grids-for-driving-scene-gaussian-splatting-has-been-accepted-at-neurips-2025-tada-tada-tada",
           title: 'Our paper Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting...',
           description: "",
           section: "News",},{
