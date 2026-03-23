@@ -33,6 +33,18 @@
     },
     "work": [
         {
+            "name": "CRIM (Computer Research Institute of Montreal)",
+            "position": "Senior Scientist",
+            "url": "https://crim.ca/",
+            "startDate": "2025-10-27",
+            "endDate": "",
+            "summary": "",
+            "highlights": [
+                "",
+                ""
+            ]
+        },
+        {
             "name": "LeddarTech",
             "position": "AI Scientist - Algorithm Developer",
             "url": "https://leddartech.com/",
